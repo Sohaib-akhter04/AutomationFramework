@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Automation>
+    <Execution>
+        <BookNow_TC001>
+            <url>https://adactinhotelapp.com/</url>
+            <username>AmirTester</username>
+            <password>AmirTester</password>
+        </BookNow_TC001>
+        <BookNow_TC001>
+            <url>https://adactinhotelapp.com/</url>
+            <username>AmirTester</username>
+            <password>AmirTester</password>
+        </BookNow_TC001>
+    </Execution>
+</Automation>
